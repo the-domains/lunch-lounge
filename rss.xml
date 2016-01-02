@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lunch Lounge]]></title>
         <description><![CDATA[Lunch Lounge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lunch-lounge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 23:22:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 23:36:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lunch-lounge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c854721a-841c-42a4-8a92-7d86b5e779d2.png">]]></description>
+            <link>https://thegrid.ai/lunch-lounge/5c8de7dd-9553-4b6c-8761-28334d6296e5/index.html</link>
+            <guid isPermaLink="false">5c8de7dd-9553-4b6c-8761-28334d6296e5</guid>
+            <pubDate>Sat, 02 Jan 2016 23:36:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee32acfd-5a8e-4750-8de8-b9293fa5018e.png">]]></description>
-            <link>undefined7f3979d7-1b5c-48fb-b293-cf4b6d66d3c6/index.html</link>
+            <link>https://thegrid.ai/lunch-lounge/7f3979d7-1b5c-48fb-b293-cf4b6d66d3c6/index.html</link>
             <guid isPermaLink="false">7f3979d7-1b5c-48fb-b293-cf4b6d66d3c6</guid>
             <pubDate>Sat, 02 Jan 2016 23:22:00 GMT</pubDate>
         </item>
