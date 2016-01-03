@@ -1,6 +1,6 @@
 name: Lunch Lounge
 favicon: null
-layout_spectrum: 0.31576
+layout_spectrum: 0.48171
 typography_spectrum: 0.42059
 title: Lunch Lounge - The best place to be when you eat your cheese sandwich
 cta:
@@ -24,6 +24,6 @@ color:
     - '#E376B7'
   brandStrength: 0.75
   lightness: 0.5625
-  saturation: 0.375
+  saturation: 0.125
   rhythmicContrast: 0.2039643879979849
 purpose: []
